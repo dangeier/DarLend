@@ -1,13 +1,4 @@
 Hey there 👋
 
-I’m Daniel or DarLend
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dangeier)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-## 💼 Skills
-
-Soon to come!
-
+[Random GIF](https://media4.giphy.com/media/MdeSslU80bVsTtWxEh/giphy.gif?cid=790b76114152c129c1198ae56708c48c4ca523fd7e1f71e6&rid=giphy.gif&ct=g)
 <br>
